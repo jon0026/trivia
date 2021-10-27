@@ -1,0 +1,42 @@
+#preguntas {
+    width: 50%;
+    margin-left: 25%;
+    position: absolute;
+    height: 50%;
+}
+
+.pregunta {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.imagenContainer {
+    margin-left: 10%;
+
+}
+
+img{
+    max-width: 350px;
+    max-height: 300px;
+}
+
+#Resumen{
+    position: fixed;
+   
+    right: 0px;
+}
+
+
+#inputNombre {
+    margin: 10px;
+}
+
+#boton {
+    background: blue;
+    color: white;
+}
+
+#reiniciar{
+    background: green;
+    color: white;
+}
